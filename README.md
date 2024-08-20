@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif?cid=ecf05e47uobvrz77vvf65w31ucw4r3kpuo2b7z9gqvnasee6&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <!---
 kithmiHettiarachchi/kithmiHettiarachchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
